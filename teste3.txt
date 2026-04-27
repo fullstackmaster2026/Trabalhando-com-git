@@ -1,2 +1,3 @@
-fazer uma alteração aqui
+fazer uma alteração aqui, e o outro dev deverá fazer também
 outra alteração 
+
